@@ -7,14 +7,8 @@ Do you want to view my detail profile?
 [Go to my profile site!](https://mohammed-alyaseen.github.io/portfolio/)
 
 # 📚 Career
-- Soongsil University AI Convergence
+- Pro Lead Systems 
 - [Arab International University (AIU)](https://www.aiu.edu.sy/)
-- [SW Maestro 10th Generation](https://www.swmaestro.org/sw/main/main.do)
 
 # 📬 Contacts
-- owjs3901@gmail.com
-
-# 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owjs3901)](https://github.com/anuraghazra/github-readme-stats)
-[![M's GitHub stats](https://github-readme-stats.vercel.app/api?username=owjs3901)](https://github.com/anuraghazra/github-readme-stats)
-
+- mouhamadalyasen3555@gmail.com
