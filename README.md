@@ -6,6 +6,12 @@ I am a web developer.
 Do you want to view my detail profile?
 [Go to my profile site!](https://mohammed-alyaseen.github.io/portfolio/)
 
+# 📝 TODO-2023 
+
+- [ ] Next.js
+- [ ] Node.js 
+- [ ] RTK Query
+
 # 📚 Career
 - Pro Lead Systems 
 - [Arab International University (AIU)](https://www.aiu.edu.sy/)
