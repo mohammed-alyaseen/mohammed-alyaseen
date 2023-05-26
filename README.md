@@ -10,7 +10,7 @@ Do you want to view my detail profile?
 
 - [ ] Next.js
 - [ ] Node.js 
-- [ ] RTK Query
+- [x] RTK Query
 
 # 📚 Career
 - Pro Lead Systems 
