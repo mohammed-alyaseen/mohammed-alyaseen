@@ -13,7 +13,7 @@ Do you want to view my detail profile?
 - [x] RTK Query
 
 # 📚 Career
-- Pro Lead Systems 
+- BPro (startup company working on ERP system) 
 - [Arab International University (AIU)](https://www.aiu.edu.sy/)
 
 # 📬 Contacts
