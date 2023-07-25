@@ -3,7 +3,7 @@
 🖐 Hello! My name is Mohammed.  
 I am a web developer.
 
-Do you want to view my detail profile?
+Do you want to view my detailed profile?
 [Go to my profile site!](https://mohammed-alyaseen.github.io/portfolio/)
 
 # 📝 TODO-2023 
@@ -17,4 +17,4 @@ Do you want to view my detail profile?
 - [Arab International University (AIU)](https://www.aiu.edu.sy/)
 
 # 📬 Contacts
-- mouhamadalyasen3555@gmail.com
+- mohammed.alyaseen.it@gmail.com
