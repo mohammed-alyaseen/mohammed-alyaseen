@@ -6,14 +6,16 @@ I am a web developer.
 Do you want to view my detailed profile?
 [Go to my profile site!](https://mohammed-alyaseen.github.io/portfolio/)
 
-# 📝 TODO-2023 
+# 📝 TODO-2024 
 
 - [ ] Next.js
-- [ ] Node.js 
+- [ ] DevOps
 - [x] RTK Query
 
 # 📚 Career
-- BPro (startup company working on ERP system) 
+- Big-dash  1/9/2023 - Current (working on bank system) 
+- Almuthafar 1/3/2023 - 1/9/2023 (startup law office business) 
+- BPro 1/3/2021 - 1/10/2023 (startup company working on ERP system) 
 - [Arab International University (AIU)](https://www.aiu.edu.sy/)
 
 # 📬 Contacts
