@@ -7,13 +7,13 @@ Would you like to see my detailed profile?
 [Go to my profile site!](https://mohammed-alyaseen.github.io/portfolio/)
 
 # 📝 TODO-2024 
-
 - [ ] [Next.js](https://nextjs.org/)
 - [ ] [DevOps](https://roadmap.sh/devops)
 - [x] [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
 
 # 📚 Career
-- [Big-dash](https://www.aiu.edu.sy/)  9/2023 - Current (working on bank system) 
+- Easy-pay 11/2024 - current (A restaurant Cashier System)
+- [Big-dash](https://big-dash.tu)  9/2023 - 11/2024 (working on bank system) 
 - [Almuthafar](https://almuthafargroup.com/) 3/2023 - 9/2023 (startup law office business) 
 - BPro 3/2021 - 10/2023 (startup company working on ERP system) 
 - [Arab International University (AIU)](https://www.aiu.edu.sy/)
