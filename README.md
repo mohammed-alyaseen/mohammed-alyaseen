@@ -6,17 +6,18 @@ I am a software engineer.
 Would you like to see my detailed profile?
 [Go to my profile site!](https://mohammed-alyaseen.github.io/portfolio/)
 
-# 📝 TODO-2024 
+# 📝 TODO-2026 
 - [ ] [Next.js](https://nextjs.org/)
 - [ ] [DevOps](https://roadmap.sh/devops)
-- [x] [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
+- [ ] [AWS]
 
 # 📚 Career
-- Easy-pay 11/2024 - current (A restaurant Cashier System)
+- Dataline 9/2025 - currently
+- Easy-pay 11/2024 - 9/2025 (A restaurant Cashier System)
 - [Big-dash](https://big-dash.tu)  9/2023 - 11/2024 (working on bank system) 
 - [Almuthafar](https://almuthafargroup.com/) 3/2023 - 9/2023 (startup law office business) 
 - BPro 3/2021 - 10/2023 (startup company working on ERP system) 
 - [Arab International University (AIU)](https://www.aiu.edu.sy/)
 
 # 📬 Contacts
-- mohammed.alyaseen.it@gmail.com
+- mohammed.o.alyaseen@gmail.com
