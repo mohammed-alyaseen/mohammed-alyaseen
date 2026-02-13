@@ -1,23 +1,39 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fowjs3901&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🖐 Hello! My name is Mohammed.  
-I am a software engineer.
+💻 Software Engineer passionate about building scalable web applications and business systems.  
+🚀 Currently working on financial and ERP solutions.  
+🌍 Based in Syria.
 
-Would you like to see my detailed profile?
-[Go to my profile site!](https://mohammed-alyaseen.github.io/portfolio/)
+🌐 Portfolio: https://tech-masters.guru/portfolio/mohammed-alyaseen
 
-# 📝 TODO-2026 
-- [ ] [Next.js](https://nextjs.org/)
-- [ ] [DevOps](https://roadmap.sh/devops)
-- [ ] [AWS]
+## 📈 2026 Learning Goals
+- Master Next.js for full-stack React applications
+- Gain AWS Cloud Practitioner certification
+- Improve system design & scalable architecture skills
 
-# 📚 Career
-- Dataline 9/2025 - currently
-- Easy-pay 11/2024 - 9/2025 (A restaurant Cashier System)
-- [Big-dash](https://big-dash.tu)  9/2023 - 11/2024 (working on bank system) 
-- [Almuthafar](https://almuthafargroup.com/) 3/2023 - 9/2023 (startup law office business) 
-- BPro 3/2021 - 10/2023 (startup company working on ERP system) 
-- [Arab International University (AIU)](https://www.aiu.edu.sy/)
+## 💼 Experience
 
-# 📬 Contacts
-- mohammed.o.alyaseen@gmail.com
+**Dataline** — Software Engineer  
+📅 09/2025 – Present  
+
+**Easy-Pay** — Backend Developer  
+📅 11/2024 – 09/2025  
+💳 Restaurant cashier system  
+
+**Big-Dash** — Backend Developer  
+📅 09/2023 – 11/2024  
+🏦 Banking system  
+
+**Almuthafar Group** — Full Stack Developer  
+📅 03/2023 – 09/2023  
+⚖️ Law office startup system  
+
+**BPro** — Software Developer  
+📅 03/2021 – 10/2023  
+📦 ERP system
+
+## 📬 Contact
+- 📧 mohammed.o.alyaseen@gmail.com
+- 💼 LinkedIn: (your link here)
+
