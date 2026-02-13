@@ -1,6 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fowjs3901&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-🖐 Hello! My name is Mohammed.  
+## 👋 Hi, I'm Mohammed Alyaseen
 💻 Software Engineer passionate about building scalable web applications and business systems.  
 🚀 Currently working on financial and ERP solutions.  
 🌍 Based in Syria.
@@ -17,23 +15,27 @@
 **Dataline** — Software Engineer  
 📅 09/2025 – Present  
 
-**Easy-Pay** — Backend Developer  
+**Easy-Pay** — Software Developer  
 📅 11/2024 – 09/2025  
 💳 Restaurant cashier system  
 
-**Big-Dash** — Backend Developer  
+**Big-Dash** — Frontend Developer  
 📅 09/2023 – 11/2024  
 🏦 Banking system  
 
-**Almuthafar Group** — Full Stack Developer  
+**Almuthafar Group** — Frontend Developer  
 📅 03/2023 – 09/2023  
 ⚖️ Law office startup system  
 
-**BPro** — Software Developer  
+**BPro** — Frontend Developer  
 📅 03/2021 – 10/2023  
 📦 ERP system
 
 ## 📬 Contact
 - 📧 mohammed.o.alyaseen@gmail.com
-- 💼 LinkedIn: (your link here)
+- 💼 LinkedIn: (https://www.linkedin.com/in/mohammed-al-yaseen-79b056161/)
 
+## ⭐ Featured Projects
+🏦 Law Firm – Built interactive dashboards, reusable CRUD templates
+📦 ERP System – Multi-module enterprise management solution  
+💳 Restaurant POS – Cashier and reporting system
