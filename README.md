@@ -3,7 +3,7 @@
 🚀 Currently working on financial and ERP solutions.  
 🌍 Based in Syria.
 
-🌐 Portfolio: https://tech-masters.guru/portfolio/mohammed-alyaseen
+🌐 Portfolio: https://mohammed-alyaseen.vercel.app
 
 ## 📈 2026 Learning Goals
 - Master Next.js for full-stack React applications
